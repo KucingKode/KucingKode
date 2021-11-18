@@ -1,13 +1,13 @@
 # Hi Everyone😀
 
-My name is Fazle and I am a self-taught developer from Indonesia, Love to build some application especially a web application.
+My name is Fazle and I'm a Self-Taught Developer from Indonesia, Love to build some application especially a web application.
 If you want to know more about me, visit [my web portofolio](https://KucingKode.github.io/)
 
 Connect with me on  
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KucingKode)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kucing.kode/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxlsYF6kYL6RJTT5rK8mKpw)
-
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://kucingkode.hashnode.dev/)
+[![Twitter](https://img.shields.io/badge/KucingKode-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/KucingKode)
+[![Instagram](https://img.shields.io/badge/kucing.kode-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kucing.kode/)
 ___
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
