@@ -1,14 +1,13 @@
 # Hi Everyone😀
 
-My name is Fazle and I'm a Self-Taught Developer from Indonesia, Love to build some stuffs especially with Javascript and Typescript.
-If you want to know more about me, visit [my web portofolio](https://KucingKode.github.io/)
+My name is Fazle, I am a self-taught programmer and a high school student from Indonesia. I like to learn and build some web applications, and javascript libraries, also doing some coding challange with Javascript, visit [my web portofolio](https://KucingKode.github.io/)
 
 Connect with me on  
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KucingKode)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://kucingkode.hashnode.dev/)
 [![Twitter](https://img.shields.io/badge/KucingKode-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/KucingKode)
-[![Instagram](https://img.shields.io/badge/kucing.kode-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kucing.kode/)
-
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://kucingkode.hashnode.dev/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KucingKode)  
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/KucingKode)
+[![CodinGame](https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=for-the-badge&logo=codingame&logoColor=black)](https://www.codingame.com/profile/2b9e0ee5306b795a3e0ae7b2653f72034183484)
 ___
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
