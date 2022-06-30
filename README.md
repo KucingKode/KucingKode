@@ -11,5 +11,4 @@ I am Fazle, a self-taught programmer and a high school student from Indonesia. I
 
 ## 📈 Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kucingkode&theme=nord&show_icons=true&hide_border=true" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kucingkode&theme=nord&hide_border=true&layout=compact" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kucingkode&theme=nord&show_icons=true&hide_border=true" width="430"/>
