@@ -7,7 +7,11 @@ I'm a passionate student and web developer with interest in the Javascript ecosy
 **<https://kucingkode.github.io>**    
 [X](https://twitter.com/KucingKode) |
 [Kaggle](https://www.kaggle.com/fazleadyutautomo) |
+[HackerRank](https://www.hackerrank.com/profile/fazleadyuta4) |
 [CodinGame](https://www.codingame.com/profile/2b9e0ee5306b795a3e0ae7b2653f72034183484) |
 [Codewars](https://www.codewars.com/users/KucingKode) |
 
 [Play chess with me.](https://www.chess.com/member/kucingkodechess)
+
+    
+[![An image of @kucingkode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kucingkode)](https://holopin.io/@kucingkode)
