@@ -12,6 +12,3 @@ I'm a passionate student and web developer with interest in the Javascript ecosy
 [Codewars](https://www.codewars.com/users/KucingKode) |
 
 [Play chess with me.](https://www.chess.com/member/kucingkodechess)
-
-    
-[![An image of @kucingkode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kucingkode)](https://holopin.io/@kucingkode)
